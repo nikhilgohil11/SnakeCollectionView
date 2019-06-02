@@ -3,7 +3,7 @@ iOS app showing cell in UICollectionView as snake like layout. We can use this l
 
 My purpose of making this project opensource on github is to enable more possible uses of this layout. I would like to know your idea where we can use this layout. I would be happy if you suggest features/functionalities which can be added to this layout. 
 
-Animation added on each cell is just for presentational purpose to understand the arrangement of the cell.
+Animation added on each cell is just for presentational purpose to understand the arrangement of the cell
 
 <p align="center">
   <img src="1.png" width="150" title="First Screen"  alt="First Screen">
@@ -24,6 +24,7 @@ Animation added on each cell is just for presentational purpose to understand th
 
 ## :
 
+Usage  |  Usage
 :------------: | :-------------:
 Travel History | Show Portfolio 
 Tracking View | Show Timeline
