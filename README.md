@@ -24,7 +24,6 @@ Animation added on each cell is just for presentational purpose to understand th
 
 ## :
 
-Use as  |  
 :------------: | :-------------:
 Travel History | Show Portfolio 
 Tracking View | Show Timeline
