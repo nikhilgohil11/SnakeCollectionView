@@ -1,7 +1,9 @@
 # 🐍 Snake Collection View 🐍
 iOS app showing cell in UICollectionView as snake like layout. We can use this layout to present timeline, tracking system, showcase, portfolio, etc.
 
-My purpose of making this project on github is to enable more possibile uses of this layout. I would like to know If you know where we can use this layout. I would be happy if you suggest features/fucntionalities which can be added to this layout. 
+My purpose of making this project opensource on github is to enable more possible uses of this layout. I would like to know your idea where we can use this layout. I would be happy if you suggest features/functionalities which can be added to this layout. 
+
+Animation added on each cell is just for presentational purpose to understand the arrangement of the cell.
 
 <p align="center">
   <img src="1.png" width="150" title="First Screen"  alt="First Screen">
@@ -22,7 +24,7 @@ My purpose of making this project on github is to enable more possibile uses of 
 
 ## :
 
-Uses 
+Use as  |  
 :------------: | :-------------:
 Travel History | Show Portfolio 
 Tracking View | Show Timeline
